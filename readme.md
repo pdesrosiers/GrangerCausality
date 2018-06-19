@@ -1,28 +1,28 @@
-## GrangerCausality
+# GrangerCausality
 
-# DESCRIPTION
+## DESCRIPTION
 
 	MATLAB module that infers significant causal links between time series.  
 
-# REQUIREMENTS
+## REQUIREMENTS
 
 	MATLAB 2017 or higher.
 
-# INSTALLATION
+## INSTALLATION
 
 	1. Run setup.m
 	2. Try example.m.
 
-# MAIN FUNCTIONS
+## MAIN FUNCTIONS
 
 	inferNetworkWithGranger.m
 	granger.m 
 
-# AUTHORS
+## AUTHORS
 
 	Patrick Desrosiers and Maxime Tremblay for DCCLab @ CERVO Cervo Brain Research Centre
 	
-# VERSIONS
+## VERSIONS
 	First: 2015
 	Updated: January 2018
 
